@@ -10,7 +10,7 @@ PLOT_ID,SAMPLE_ID,LON,LAT,FLAGGED,ANALYSES,USER_ID,COLLECTION_TIME,ANALYSIS_DURA
 137362002,511625832,-9.286398001,11.07289509,FALSE,1,fisundwa@rcmrd.org,53:14.3,3453,Sentinel 2,2018 - 2018,9,"7,9-12",1-Jun,8,0,Open water - freshwater,N/A
 137362003,511625833,22.38722432,4.121562176,FALSE,1,fisundwa@rcmrd.org,58:02.9,293.5,Sentinel 2,2018 - 2018,10,5-Dec,1-Apr,0,0,Open water - freshwater,N/a
 137362004,511625834,22.52309856,2.113134167,FALSE,1,fisundwa@rcmrd.org,04:58.9,420.9,Sentinel 2,2018 - 2018,11,"1-7,9-11",0,"8,12",0,Open water - freshwater,N/a
-137362005,511625835,19.71233625,1.74067194,FALSE,1,fisundwa@rcmrd.org,08:00.6,186.7,Sentinel 2,2018 - 2018,12,"1-4, 6-12",0,5,0,Open water - freshwater,N/a
+137362005,511625835,19.71233625,1.74067194,FALSE,1,fisundwa@rcmrd.org,08:00.6,186.7,Sentinel 2,2018 - 2018,12,"1-4,6-12",0,5,0,Open water - freshwater,N/a
 137362006,511625836,18.98974647,-16.39433274,FALSE,1,fisundwa@rcmrd.org,10:55.2,179.5,Sentinel 2,2018 - 2018,13,1-Dec,0,0,0,Open water - freshwater,N/a
 137362007,511625837,48.61344004,-17.2070025,FALSE,1,fisundwa@rcmrd.org,28:19.3,1049,Sentinel 2,2018 - 2018,14,0,"1-7,9-12",9,12,Cultivated (Cropland/ Plantation)  ,N/A
 137362008,511625838,49.14263445,-18.87580179,FALSE,1,fisundwa@rcmrd.org,43:24.1,909.7,Sentinel 2,2018 - 2018,15,1-Dec,0,0,0,Open water - marine,N/A
