@@ -3,20 +3,20 @@ PLOT_ID,SAMPLE_ID,LON,LAT,FLAGGED,ANALYSES,USER_ID,COLLECTION_TIME,ANALYSIS_DURA
 137387038,512622500,27.27216754,0.89387444,FALSE,1,cakello@rcmrd.org,13:22.5,468.8,Sentinel 2,2018 - 2018,2,1-Dec,0,10,0,Open water - freshwater,Point is near the river bank
 137387039,512622501,27.97796737,0.489606723,FALSE,1,cakello@rcmrd.org,49:59.1,249.4,Sentinel 2,2018 - 2018,3,"1, 3-5, 7-12",0,"2, 3","2, 6",Open water - freshwater,Bad image month 2 & 6
 137387040,512622502,28.07186673,-3.271850677,FALSE,1,cakello@rcmrd.org,36:49.6,310.4,Sentinel 2,2018 - 2018,4,"1, 3, 4, 5, 6, 7, 12",8-Nov,2,2,Open water - freshwater,No image for February
-137387041,512622503,28.70801935,-5.872515167,FALSE,1,cakello@rcmrd.org,44:07.1,439.4,Sentinel 2,2018 - 2018,5,3-Sep,0,0,1 - 2 & 10 -12,Open water - freshwater,It is difficult to know the month the water was not observed when some images are missing (1-2 &  10-12)
+137387041,512622503,28.70801935,-5.872515167,FALSE,1,cakello@rcmrd.org,44:07.1,439.4,Sentinel 2,2018 - 2018,5,3-Sep,0,0,"1 - 2,10 -12",Open water - freshwater,It is difficult to know the month the water was not observed when some images are missing (1-2 &  10-12)
 137387042,512622504,29.47569326,-6.510600425,FALSE,1,cakello@rcmrd.org,52:27.3,502.1,Sentinel 2,2018 - 2018,6,"2, 5, 6, 7, 8, 9, 10",0,4,"1, 3, 4, 11, 12",Open water - marine,"No Images for the month of January, March, November and December"
 137387043,512622505,28.87654071,-8.279275876,FALSE,1,cakello@rcmrd.org,51:22.7,7133.5,Sentinel 2,2018 - 2018,7,"1, 2, 4, 5, 6, 7, 8, 9, 10, 11,12",0,3,3,Open water - freshwater,No Image for month 3
 137387044,512622506,28.7397337,-8.694288968,FALSE,1,cakello@rcmrd.org,18:36.0,1635.5,Sentinel 2,2018 - 2018,8,"2, 4, 5, 6, 7, 8, 9, 10,11, 12 ",0,0,0,Open water - marine,No Image for the month 1 & 3
-137387045,512622507,30.67741851,-8.519768548,FALSE,1,cakello@rcmrd.org,24:29.4,355.6,Sentinel 2,2018 - 2018,9,2-Nov,0,0,1 & 12,Open water - marine,No Image 1 & 12
-137387046,512622508,30.42152721,-8.602501433,FALSE,1,cakello@rcmrd.org,20:37.6,93370.5,Sentinel 2,2018 - 2018,10,0,2-Nov,0,1 & 12,Wetlands - freshwater,Am not sure for Month 1 & 12
-137387047,512622509,32.11233755,-10.59737653,FALSE,1,cakello@rcmrd.org,31:04.2,4229,Sentinel 2,2018 - 2018,11,"1-3, 5-11",0,4 & 12,4 & 12,Open water - freshwater,Not sure for month 4 & 12
-137387048,512622510,31.40498309,-10.60646365,FALSE,1,cakello@rcmrd.org,37:12.1,370.5,Sentinel 2,2018 - 2018,12,"2-8, 12",1 & 9,"1, 10, 11","1, 9, 10, 11",Open water - freshwater,"Some Images were not clearly visible (1, 9, 10, 11)"
-137387049,512622511,39.51359706,-11.00608159,FALSE,1,cakello@rcmrd.org,43:52.7,403.3,Sentinel 2,2018 - 2018,13,"1 - 6, 11-12",0,9 & 10,9 & 10,Open water - freshwater,Images 9 & 10 were not clear
+137387045,512622507,30.67741851,-8.519768548,FALSE,1,cakello@rcmrd.org,24:29.4,355.6,Sentinel 2,2018 - 2018,9,2-Nov,0,0,"1,12",Open water - marine,No Image 1 & 12
+137387046,512622508,30.42152721,-8.602501433,FALSE,1,cakello@rcmrd.org,20:37.6,93370.5,Sentinel 2,2018 - 2018,10,0,2-Nov,0,"1,12",Wetlands - freshwater,Am not sure for Month 1 & 12
+137387047,512622509,32.11233755,-10.59737653,FALSE,1,cakello@rcmrd.org,31:04.2,4229,Sentinel 2,2018 - 2018,11,"1-3, 5-11",0,"4,12","4 ,12",Open water - freshwater,Not sure for month 4 & 12
+137387048,512622510,31.40498309,-10.60646365,FALSE,1,cakello@rcmrd.org,37:12.1,370.5,Sentinel 2,2018 - 2018,12,"2-8, 12","1,9","1, 10, 11","1, 9, 10, 11",Open water - freshwater,"Some Images were not clearly visible (1, 9, 10, 11)"
+137387049,512622511,39.51359706,-11.00608159,FALSE,1,cakello@rcmrd.org,43:52.7,403.3,Sentinel 2,2018 - 2018,13,"1 - 6, 11-12",0,"9,10","9,10",Open water - freshwater,Images 9 & 10 were not clear
 137387050,512622512,33.25156687,-11.65953778,FALSE,1,cakello@rcmrd.org,57:29.9,819.9,Sentinel 2,2018 - 2018,14,"1, 5-7, 10-12","2, 4, 10","2, 8, 9","8, 9",Wetlands - freshwater,"Not clear in month 2, 8 & 9"
-137387051,512622513,36.15933779,-11.66721732,FALSE,1,cakello@rcmrd.org,08:18.3,651.1,Sentinel 2,2018 - 2018,15,0,"5-10, 12",3 & 11,"1, 2 & 4",Wetlands - freshwater,No image for Month 1
+137387051,512622513,36.15933779,-11.66721732,FALSE,1,cakello@rcmrd.org,08:18.3,651.1,Sentinel 2,2018 - 2018,15,0,"5-10, 12","3,11","1, 2,4",Wetlands - freshwater,No image for Month 1
 137387052,512622514,40.37890143,-11.71953966,FALSE,1,cakello@rcmrd.org,13:10.3,294.7,Sentinel 2,2018 - 2018,16,"1, 3, 4, 9, 10",5-Aug,"2, 11",12,Open water - freshwater,Not sure month 2 & 11
 137387053,512622515,38.41945187,-11.87392303,FALSE,1,cakello@rcmrd.org,17:52.7,285.1,Sentinel 2,2018 - 2018,17,"2, 4-11",7,3,0,Open water - freshwater,No comment
-137387054,512622516,40.08694283,-11.93300976,FALSE,1,cakello@rcmrd.org,24:32.1,400.8,Sentinel 2,2018 - 2018,18,"1, 4-10, 12",0,2 & 10,3 & 10,Open water - freshwater,No image for 3 & 10
+137387054,512622516,40.08694283,-11.93300976,FALSE,1,cakello@rcmrd.org,24:32.1,400.8,Sentinel 2,2018 - 2018,18,"1, 4-10, 12",0,"2,10","3,10",Open water - freshwater,No image for 3 & 10
 137387055,512622517,33.90077834,-12.40616122,FALSE,1,cakello@rcmrd.org,30:32.2,362.8,Sentinel 2,2018 - 2018,19,4,"1, 6, 8, 9","3, 5, 7, 10-12",2,Wetlands - freshwater,Not sure for 2
 137387056,512622518,34.18278735,-12.47330617,FALSE,1,cakello@rcmrd.org,33:36.2,186.5,Sentinel 2,2018 - 2018,20,"1, 3-12",2,0,0,Open water - marine,Not sure about 2
 137387057,512622519,40.40315359,-12.92258326,FALSE,1,cakello@rcmrd.org,54:51.9,295.2,Sentinel 2,2018 - 2018,21,"1, 3, 5-7, 10-12","8, 9","2, 4","2, 4",Open water - freshwater,No sure for 2 & 4
