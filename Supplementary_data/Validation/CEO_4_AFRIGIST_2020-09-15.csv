@@ -131,7 +131,7 @@ PLOT_ID,SAMPLE_ID,LON,LAT,FLAGGED,ANALYSES,USER_ID,COLLECTION_TIME,ANALYSIS_DURA
 137483487,514485895,-3.243880883,5.19783518,FALSE,1,ayilaj2013@gmail.com,17:45.5,562.4,Sentinel 2,2018 - December,,,,128,"2-4,7,11-12","1,5-6,8-10","1-2,4-9",0,Open water - freshwater,NA
 137483488,514485896,-2.875745643,5.183669094,FALSE,1,ayilaj2013@gmail.com,30:34.0,805.3,Sentinel 2,2018 - December,,,,129,"2-5,11","1,6-10,12","1-2,4-12",0,Open water - Constructed (e.g. aquaculture),NA
 137483489,514485897,-3.605175773,5.169503318,FALSE,1,ayilaj2013@gmail.com,38:11.3,492.3,Sentinel 2,2018 - December,,,,130,"1-4,6-8,10-12","5,9","1,4-5,6-8",0,Open water - marine,NA
-137483490,514485898,-5.194935474,5.161712273,FALSE,1,ayilaj2013@gmail.com,44:12.1,397.6,Sentinel 2,2018 - December,,,,131,"2,8,10-12","1,3,5-7,9","1,3-79-11",0,Open water - freshwater,NA
+137483490,514485898,-5.194935474,5.161712273,FALSE,1,ayilaj2013@gmail.com,44:12.1,397.6,Sentinel 2,2018 - December,,,,131,"2,8,10-12","1,3,5-7,9","1,3-7,9-11",0,Open water - freshwater,NA
 137483491,514485899,6.394795181,5.147074803,FALSE,1,ayilaj2013@gmail.com,51:14.4,459.1,Sentinel 2,2018 - November,,,,132,"1-3,6,11-12","4-5,7-10","2-3,5,7-9",0,Open water - freshwater,NA
 137483492,514485900,-2.982082004,5.106233271,FALSE,1,ayilaj2013@gmail.com,00:25.5,587.7,Sentinel 2,2018 - December,,,,133,"2-3,12","1,4-11","1-3,5-11",0,Open water - freshwater,NA
 137483493,514485901,-1.321120471,5.097498707,FALSE,1,ayilaj2013@gmail.com,07:58.9,488.5,Sentinel 2,2018 - December,,,,134,"1-5,7-12",6,"2,6,8,11",0,Open water - freshwater,NA
