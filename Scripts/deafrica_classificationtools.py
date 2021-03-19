@@ -53,7 +53,7 @@ from rasterio.features import geometry_mask
 from dask_ml.wrappers import ParallelPostFit
 from sklearn.mixture import GaussianMixture
 from datacube.utils.geometry import assign_crs
-from datacube_stats.statistics import GeoMedian
+# from datacube_stats.statistics import GeoMedian
 from datacube.utils.rio import configure_s3_access
 from sklearn.cluster import AgglomerativeClustering
 from sklearn.model_selection import KFold, ShuffleSplit
